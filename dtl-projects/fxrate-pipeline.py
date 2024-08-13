@@ -8,7 +8,7 @@ from datetime import datetime
 from uuid import uuid4
 
 
-key = 'Your-API-Key'
+key = '2e440ddfbb78d5330c419783d3cc88fc'
 
 # api call
 url = f'https://v6.exchangerate-api.com/v6/{key}/latest/USD'
